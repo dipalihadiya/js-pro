@@ -27,20 +27,6 @@ const products = [
         description : 'watch description',
         price : 40000
     },
-    {
-        id : 4,
-        image : 'img/headphone.jpg',
-        name : 'headphone',
-        description : 'headphone description',
-        price : 15000
-    },
-    {
-        id : 5,
-        image : 'img/earphone.jpg',
-        name : 'earphone',
-        description : 'earphone description',
-        price : 10000
-    }
 ];
 
 const viewCart = document.getElementById('viewCart');
